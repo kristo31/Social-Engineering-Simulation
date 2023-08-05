@@ -1,21 +1,8 @@
-# <p align="center">Ethical Hacking Labs
+# <p align="center">Lab Work
 </p>
 
 ![h](https://gist.githubusercontent.com/Samsar4/62886aac358c3d484a0ec17e8eb11266/raw/89f706846f97cd3e59880dbc03e4f1d5f8023783/header-ehl.jpg)
 
-This is a collection of tutorials and labs made for  ethical hacking students, cybersecurity students, network and sys-admins. These tutorials accompany the resources of CEH content and different resources across the internet.
-
-⌨️ The tutorials is very practical/hands-on. Don't worry if you are a completely noob, you don't need to be an expert to start learn ethical hacking. **Google is always your best friend.** This repo will guide you very carefully from basics to more advanced techniques.
-
-**✅ Prerequisites**:
-* Any computer with at least 8GB RAM (16GB recommended)
-* At least 80GB of free disk space available
-* Hardware-based virtualization support
-
-* * *
-
-> **⚠️ Disclaimer**:
-*This is purely for educational purposes only. DO NOT try these techniques with any public network. Because if you are find guilty for causing any harm to any individual, government, corporate body, non-profit etc you will be sued with serious charges of cyber crime. I recommend you to practice the lessons in this course on your owned system and your own data in a private or local network.*
 
 * * * 
 
